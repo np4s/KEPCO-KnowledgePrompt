@@ -1,0 +1,1 @@
+!python comet/scripts/interactive/prompt.py
