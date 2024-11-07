@@ -29,6 +29,10 @@ Please install the following library:
 
 For the set-up of COMET, please refer to the `README.md` inside `/comet`
 
-## Testing
+## Describe
+
+In this project, I expand the prompt to AI by adding exploited context from the prompt using COMET knowledge graph
+
+## Test
 
 To test the project, please run `demo.sh`. Specific code of the project is in `/comet/scripts/interactive/prompt.py` or run on Colab at <https://colab.research.google.com/drive/10iHGi-xBWbMoQ1HYNDZWsrWpMRiBmWmG?usp=sharing>
